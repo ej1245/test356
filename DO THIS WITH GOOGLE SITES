@@ -1,0 +1,1 @@
+Create a copy of the home-1 page and name it index.html. Must edit the meta tag in the sites index.html and home-1 header so it can be indexed, change fron noindex to  <meta name="robots" content="index, follow">
